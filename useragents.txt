@@ -1,0 +1,15 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.85 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/534.57.2 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/534.57.2 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Linux; Android 12; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.70 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (iPad; CPU OS 15_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (X11; CrOS x86_64 15823.46.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.86 Safari/537.36 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Macintosh; Apple Silicon Mac OS X 13_5_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:115.0) Gecko/20100101 Firefox/115.0 NVIDIA/GeForceNOW/2.0.59
+Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36 NVIDIA/GeForceNOW/2.0.59
